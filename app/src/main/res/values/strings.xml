@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppNotes</string>
+    <string name="lable_day_of_week">День недели:</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="hint_title">Заголовок заметки</string>
+    <string name="description_note">Описание</string>
+    <string name="first_priority">1</string>
+    <string name="second_priority">2</string>
+    <string name="defolt_priority">3</string>
+
+    <string-array name="days_of_week">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
